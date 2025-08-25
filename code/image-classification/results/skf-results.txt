@@ -1,0 +1,78 @@
+[Epoch 1, Batch 200] Training loss: 0.663167
+[Epoch 2, Batch 200] Training loss: 0.604224
+[Epoch 3, Batch 200] Training loss: 0.576460
+[Epoch 4, Batch 200] Training loss: 0.563763
+[Epoch 5, Batch 200] Training loss: 0.554598
+[Epoch 6, Batch 200] Training loss: 0.545800
+[Epoch 7, Batch 200] Training loss: 0.555845
+[Epoch 8, Batch 200] Training loss: 0.528280
+[Epoch 9, Batch 200] Training loss: 0.571252
+[Epoch 10, Batch 200] Training loss: 0.530472
+Done training in 0:02:13.311223 seconds!
+Accuracy of the network on the test images: 76.068376 %
+Fold 0: model achieved 0.7606837606837606% accuracy on test set
+Finished writing metrics for Fold 0
+
+[Epoch 1, Batch 200] Training loss: 0.628557
+[Epoch 2, Batch 200] Training loss: 0.587430
+[Epoch 3, Batch 200] Training loss: 0.573881
+[Epoch 4, Batch 200] Training loss: 0.553298
+[Epoch 5, Batch 200] Training loss: 0.594186
+[Epoch 6, Batch 200] Training loss: 0.566671
+[Epoch 7, Batch 200] Training loss: 0.564602
+[Epoch 8, Batch 200] Training loss: 0.547721
+[Epoch 9, Batch 200] Training loss: 0.621723
+[Epoch 10, Batch 200] Training loss: 0.569823
+Done training in 0:02:14.943211 seconds!
+Accuracy of the network on the test images: 73.076923 %
+Fold 1: model achieved 0.7307692307692307% accuracy on test set
+Finished writing metrics for Fold 1
+
+[Epoch 1, Batch 200] Training loss: 0.659970
+[Epoch 2, Batch 200] Training loss: 0.623082
+[Epoch 3, Batch 200] Training loss: 0.575263
+[Epoch 4, Batch 200] Training loss: 0.592438
+[Epoch 5, Batch 200] Training loss: 0.563285
+[Epoch 6, Batch 200] Training loss: 0.584685
+[Epoch 7, Batch 200] Training loss: 0.534001
+[Epoch 8, Batch 200] Training loss: 0.545128
+[Epoch 9, Batch 200] Training loss: 0.554206
+[Epoch 10, Batch 200] Training loss: 0.542097
+Done training in 0:02:09.129466 seconds!
+Accuracy of the network on the test images: 77.777778 %
+Fold 2: model achieved 0.7777777777777778% accuracy on test set
+Finished writing metrics for Fold 2
+
+[Epoch 1, Batch 200] Training loss: 0.658039
+[Epoch 2, Batch 200] Training loss: 0.633846
+[Epoch 3, Batch 200] Training loss: 0.646885
+[Epoch 4, Batch 200] Training loss: 0.589280
+[Epoch 5, Batch 200] Training loss: 0.566846
+[Epoch 6, Batch 200] Training loss: 0.598220
+[Epoch 7, Batch 200] Training loss: 0.593223
+[Epoch 8, Batch 200] Training loss: 0.543020
+[Epoch 9, Batch 200] Training loss: 0.553077
+[Epoch 10, Batch 200] Training loss: 0.524590
+Done training in 0:02:14.117262 seconds!
+Accuracy of the network on the test images: 73.390558 %
+Fold 3: model achieved 0.7339055793991416% accuracy on test set
+Finished writing metrics for Fold 3
+
+[Epoch 1, Batch 200] Training loss: 0.659682
+[Epoch 2, Batch 200] Training loss: 0.599178
+[Epoch 3, Batch 200] Training loss: 0.569900
+[Epoch 4, Batch 200] Training loss: 0.557872
+[Epoch 5, Batch 200] Training loss: 0.543987
+[Epoch 6, Batch 200] Training loss: 0.551714
+[Epoch 7, Batch 200] Training loss: 0.557499
+[Epoch 8, Batch 200] Training loss: 0.523014
+[Epoch 9, Batch 200] Training loss: 0.553019
+[Epoch 10, Batch 200] Training loss: 0.520709
+Done training in 0:02:11.333025 seconds!
+Accuracy of the network on the test images: 70.815451 %
+Fold 4: model achieved 0.7081545064377682% accuracy on test set
+Finished writing metrics for Fold 4
+
+Run `tensorboard --logdir=./runs` to view metrics in-browser! Done testing.
+Mean Accuracy: 0.7422581710135358
+Sample stdev: 0.02723034287101618
